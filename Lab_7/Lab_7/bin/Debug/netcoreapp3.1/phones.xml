@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<phones>
+  <phone name="Nokia">
+    <company>Nokia</company>
+    <price>200</price>
+  </phone>
+  <phone name="ds">
+    <company>dsf</company>
+    <price>4</price>
+  </phone>
+  <phone name="aa">
+    <company>tt</company>
+    <price>5</price>
+  </phone>
+</phones>
