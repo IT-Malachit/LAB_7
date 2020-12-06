@@ -11,3 +11,16 @@ C:\Users\M\Desktop\222\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.Co
 C:\Users\M\Desktop\222\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
 C:\Users\M\Desktop\222\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
 C:\Users\M\Desktop\222\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.exe
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.deps.json
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.json
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.runtimeconfig.dev.json
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\bin\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csprojAssemblyReference.cache
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfoInputs.cache
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.AssemblyInfo.cs
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.csproj.CoreCompileInputs.cache
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.dll
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.pdb
+C:\Users\Ilya Naumenko\Documents\LAB_7\Lab_7\Lab_7\obj\Debug\netcoreapp3.1\Lab_7.genruntimeconfig.cache

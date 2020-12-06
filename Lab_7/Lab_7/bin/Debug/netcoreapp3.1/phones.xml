@@ -1,15 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <phones>
-  <phone name="Nokia">
-    <company>Nokia</company>
-    <price>200</price>
+  <phone id="1">
+    <name>Iphone</name>
+    <company>Apple</company>
+    <price>800</price>
   </phone>
-  <phone name="ds">
-    <company>dsf</company>
-    <price>4</price>
+  <phone id="2">
+    <name>Samsung</name>
+    <company>Samsung</company>
+    <price>500</price>
   </phone>
-  <phone name="aa">
-    <company>tt</company>
-    <price>5</price>
+  <phone id="3">
+    <name>Iphone X</name>
+    <company>Apple</company>
+    <price>1500</price>
   </phone>
 </phones>

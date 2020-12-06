@@ -6,13 +6,19 @@ namespace Lab_7
 {
     public partial class  Phones
     {
-        public  Phones(string name, string company, long price)
+        public  Phones(int id, string name, string company, long price)
         {
+            this.id = id;
             this.name = name;
             this.company = company;
             this.price = price;
         }
 
+
+        public void SetId(int id)
+        {
+            this.id = id;
+        }
         public void SetName(string name)
         {
             this.name = name;   
